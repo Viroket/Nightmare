@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d181195903db8c64daa5069ad750fae7
+timeCreated: 1493901045
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie Control Rotalic
+  fontNames:
+  - Zombie Control Rotalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
